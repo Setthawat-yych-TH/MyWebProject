@@ -1,7 +1,7 @@
 # Python3 program to demonstrate
 # the use of sample() function .
   
-# import random 
+# import random dasdasd
 import random
   
   
